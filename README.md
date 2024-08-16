@@ -1,3 +1,3 @@
 # odin-recipes
 
-Git test
+This is a simple recipe website. 
