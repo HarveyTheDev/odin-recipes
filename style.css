@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.banner {
+    background-color: #fb9128;
+    padding: 10px;
+    text-align: center;
+    font-size: 15px;
+    color: #f5f2f2eb;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.title {
+    color: black;
+    text-align: center;
+}
