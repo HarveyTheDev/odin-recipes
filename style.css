@@ -21,10 +21,12 @@ body {
     text-align: center;
 }
 
-ul {   
-    list-style: square;
+.horizontal-list {   
+    list-style: none;
+    display: flex;
+    justify-content: center;
 }
 
-li {
-    padding: 5px;
+.horizontal-list li {
+    margin-right: 40px;
 }
