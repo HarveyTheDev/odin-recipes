@@ -20,7 +20,10 @@ body {
 
 .img-container {
     float: left;
-    padding: 30px;
+    padding-left: 20px;
+    padding-right: 30px;
+    padding-top: 20px;
+    padding-bottom: 0px;
 }
 
 .horizontal-list {   
@@ -33,14 +36,14 @@ body {
     margin-right: 40px;
 }
 
-#ing3 {
-    margin-bottom: 200px;
+#ing1 {
+    padding-bottom: 130px;
 }
 
 #ing2 {
-    margin-bottom: 3000px;
+    padding-bottom: 30px;
 }
 
 #ing3 {
-    margin-bottom: 200px;
+    padding-bottom: 120px;
 }
