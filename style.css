@@ -20,3 +20,11 @@ body {
     padding: 15px;
     text-align: center;
 }
+
+ul {   
+    list-style: square;
+}
+
+li {
+    padding: 5px;
+}
