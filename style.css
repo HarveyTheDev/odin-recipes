@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    background: linear-gradient(skyblue, white);
+    background: linear-gradient(rgba(169, 170, 170, 0.864), white);
     background-repeat: no-repeat;
     background-attachment: fixed;
     font-family: Arial, Helvetica, sans-serif;
@@ -9,8 +9,7 @@ body {
 }
 
 .banner {
-    background-color: #1289b8;
-    border: 7px solid #1469a9;
+    background-color: #e09239;
     padding: 1px;
     text-align: center;
     font-size: 15px;
